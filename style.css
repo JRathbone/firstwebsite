@@ -1,0 +1,84 @@
+
+*{
+    font-family: 'Cormorant', serif;
+    margin: 0px;
+    padding: 0%;
+}
+.body{
+    background-color: #050000;
+}
+.div{
+    margin: 0%;
+}
+.my-projects{
+    background-color: #050000;
+    display: grid;
+    grid-gap: 5px;
+    padding: 20px;
+    grid-gap: 50px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.the-projects{
+    background-color: #050000;
+    padding-top: 100px;
+    color: white;
+}
+.project-title{
+    text-align: center;
+}
+.info{
+    background-color: floralwhite;
+    padding-bottom: 700px;
+    background-image: url("/Users/Justin/Desktop/DevProjects/DemoWebsite/Resources/images/IMG_2022 (1).jpg");
+    background-position: center;
+    border-width: 0px;
+    background-size: cover;
+    height: 175px;
+    background-repeat: no-repeat;
+}
+.links{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+    font-size: 26px;
+    padding-bottom: 10px;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+    padding-top: 25px;
+}
+
+.about-me{
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    font-size: 25px;
+}
+.name{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 400px;
+    font-size: 75px;
+    color: white;
+}
+
+.resume-pdf{
+    text-align: center;
+}
+.footer{
+    background-color: lightgray;
+    padding: 50px;
+    text-align: center;
+}
+/*.scroll-down{
+    margin-top: 250px;
+    margin-left: 890px;
+    margin-right: 890px;
+    margin-bottom: 0px;
+    font-size: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    
+}
